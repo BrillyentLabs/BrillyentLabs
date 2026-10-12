@@ -2,28 +2,28 @@
 
 **IT Infrastructure · Security Operations · Defensive Cybersecurity · Technical Development**
 
-Brillyent Labs is my technical portfolio documenting hands-on work in IT infrastructure, systems engineering, cybersecurity, and software development.
+My background is in security operations, both in a Security Operations Center and out in the field. That work has involved monitoring alarms, working with surveillance and access-control systems, coordinating incident response, and keeping clear records when situations move quickly.
 
-My professional background includes Security Operations Center operations and on-site security experience. I'm expanding that foundation through practical infrastructure projects, technical troubleshooting, and software development. This portfolio brings together the systems I've built, problems I've investigated, behaviors I've tested, and results I've documented.
+Brillyent Labs is where I'm building on that experience through IT infrastructure, cybersecurity, and software projects. I use my home lab to work with Linux and Windows systems, virtual networks, security monitoring, and troubleshooting. This profile is a place to share what I've built, what I've learned from investigating problems, and what I'm working on next.
 
-**Explore featured projects:** [Brillyent Lab](#brillyent-lab) · [PROJECT NIGHTSHIFT](#project-nightshift)
+**Explore my projects:** [Brillyent Lab](#brillyent-lab) · [PROJECT NIGHTSHIFT](#project-nightshift)
 
 ## Professional background
 
 ### Security Operations Center
 
-My professional SOC experience is in **physical security operations**, including:
+My SOC experience is in **physical security operations**. The work has included:
 
-- Security alarm assessment and escalation, CCTV surveillance and video verification, and electronic access-control monitoring.
-- Incident documentation, threat monitoring, situational awareness, and prioritization of concurrent incidents.
-- Radio communications, dispatch coordination, emergency notifications, and emergency response coordination—including medical emergency dispatch.
-- Following established operating procedures, reporting requirements, and escalation protocols.
+- Assessing and escalating security alarms, reviewing CCTV footage, and monitoring electronic access-control activity.
+- Tracking incidents, monitoring potential threats, and prioritizing multiple events at once.
+- Coordinating radio communications, dispatch, emergency notifications, and responses to security and medical incidents.
+- Documenting incidents and following established procedures for reporting, response, and escalation.
 
 ### Physical security field operations
 
-My separate field experience includes on-site security, physical access control, crowd management, emergency response, and incident reporting. Medical emergency responsibilities have included both **direct on-scene response and dispatch/coordination**, with first-aid/CPR-related duties within my training and assigned responsibilities.
+I've also worked on-site in physical security, with responsibilities involving security presence, access control, crowd management, emergency response, and incident reporting. My medical emergency work has included both direct on-scene response and coordination with dispatched personnel, including first-aid/CPR-related responsibilities within my training and assigned duties.
 
-These roles provide a foundation in incident assessment, time-sensitive communication, procedural discipline, and operational accountability. My cybersecurity monitoring and testing experience comes from the personal lab projects below.
+Those roles taught me the value of staying organized, communicating clearly, and checking the facts before making a decision. My hands-on IT and cybersecurity work is documented through the projects below.
 
 **Professional registration:** California BSIS Security Guard Registration — Active.
 
@@ -31,28 +31,31 @@ These roles provide a foundation in incident assessment, time-sensitive communic
 
 ### Brillyent Lab
 
-**Six-phase Range build completed October 4, 2026 · Documentation continues**
+**Five-VM IT and security Range · Six construction phases completed October 4, 2026**
 
-A personal IT and security environment built on Fedora Linux with KVM/QEMU and libvirt. The five-VM Range brings together OPNsense networking and firewall infrastructure, Windows Server AD DS/DNS, a Windows domain client, Ubuntu Server, and Wazuh monitoring.
+Brillyent Lab is my environment for figuring out how systems work together. I built the Range on Fedora Linux using KVM/QEMU and libvirt, with OPNsense networking, Windows Server Active Directory and DNS, a Windows domain client, Ubuntu Server, and Wazuh monitoring.
 
-- Configured Linux and Windows virtual environments and documented their resources, storage, network attachments, and routing.
-- Completed host documentation audit stages A1–A6, covering hardware, virtualization, storage, networking, services, and host-health observations.
-- Worked with Sysmon, Windows security event telemetry, Windows Event Forwarding, and Wazuh; saved evidence includes Sysmon events in Wazuh alert records.
-- Performed controlled security exercises and investigated VM image allocation and snapshot metadata.
+Some of the work I've documented includes:
 
-Project documentation distinguishes completed infrastructure milestones from ongoing security validation, guest auditing, and recovery testing.
+- Configuring and documenting virtual machines, network attachments, storage, and routing.
+- Completing host audit stages A1–A6 across virtualization, storage, networking, services, and system-health observations.
+- Examining Windows event telemetry with Sysmon and Wazuh; saved Wazuh alerts include Sysmon process and network-related events.
+- Investigating QCOW2 disk usage, Btrfs storage reports, and snapshot records without making speculative cleanup changes.
+- Troubleshooting virtualization management windows that closed under GNOME Wayland, and testing a working XWayland workaround.
+
+The six-phase build is complete. Guest-level documentation and targeted security and recovery validation are separate, continuing work.
 
 ### PROJECT NIGHTSHIFT
 
 **Custom command-center interface · Active development**
 
-A local browser-based interface combining HTML, CSS, and JavaScript with Python telemetry integration. The project develops through incremental interface changes, troubleshooting, testing, and saved checkpoints.
+PROJECT NIGHTSHIFT is a browser-based interface I'm developing to display local system information. It combines HTML, CSS, and JavaScript with a Python telemetry component.
 
-- Four circular live gauges for CPU, RAM, GPU, and storage telemetry.
-- Live CPU, RAM, and GPU history graphs.
-- **Latest recorded milestone: v0.4 CPU/RAM/GPU history checkpoint.**
+- Four circular gauges display live CPU, RAM, GPU, and storage information.
+- CPU, RAM, and GPU history graphs provide a view of recent activity.
+- **Latest recorded milestone:** v0.4 CPU/RAM/GPU history checkpoint.
 
-NIGHTSHIFT remains a development prototype. Broader assistant capabilities and further reliability validation remain future work.
+I'm developing NIGHTSHIFT a step at a time—making changes, checking how they behave, and keeping track of what still needs testing. It's a working prototype, not a finished monitoring product or AI assistant.
 
 ## Relevant technologies
 
@@ -66,12 +69,7 @@ NIGHTSHIFT remains a development prototype. Broader assistant capabilities and f
 
 ## Current professional development
 
-**Applied technical development**
-
-- **IT infrastructure and systems administration:** Expanding practical experience with Linux, Windows, virtualization, networking, and system troubleshooting.
-- **Defensive cybersecurity:** Developing skills in security monitoring, event analysis, and controlled security testing.
-- **Software development:** Continuing PROJECT NIGHTSHIFT through incremental interface development, telemetry integration, and testing.
-- **Technical documentation:** Developing project case studies and preparing practical demonstrations of completed work.
+I'm continuing to develop my technical skills through lab work, software development, and independent study. My focus includes systems administration, networking, defensive security, troubleshooting, and turning completed projects into useful technical documentation.
 
 **Industry training programs**
 
@@ -79,18 +77,14 @@ NIGHTSHIFT remains a development prototype. Broader assistant capabilities and f
 - **Fortinet Training Institute — NSE 1 and NSE 2:** Cybersecurity, cloud, and next-generation firewall fundamentals.
 - **Microsoft Learn — SC-900: Security, Compliance, and Identity Fundamentals:** Security, compliance, and identity concepts in Microsoft environments.
 
-My independent study and practical exercises are supported by the Brillyent Lab.
-
 ### Brillyent Shield
 
-Brillyent Shield is my developing independent technology and cybersecurity venture. Its foundation combines professional security operations experience, Brillyent Lab, technical education, and practical preparation. Service planning and readiness development are ongoing; commercial services remain a future objective.
+I'm also developing **Brillyent Shield**, a future technology and cybersecurity venture informed by my security operations background and technical lab work. Right now, the focus is on building technical capability, practical procedures, and service readiness. Commercial services are a future goal.
 
 ## Career direction
 
 I'm pursuing opportunities in **IT support, technical support, infrastructure and networking support, junior systems administration, and entry-level cybersecurity**.
 
-My objective is to combine established security operations experience with practical systems engineering, infrastructure troubleshooting, and defensive cybersecurity skills.
+I want to bring my security operations experience into technical work where I can solve problems, understand the systems behind them, and document results others can follow.
 
-I approach technical work through careful investigation, deliberate implementation, testing, validation, and clear documentation.
-
-I also welcome professional connections and discussions about technical collaboration and future Brillyent Labs / Brillyent Shield partnerships.
+I'm also open to professional connections and conversations about technical collaboration and potential future Brillyent Labs or Brillyent Shield partnerships.
